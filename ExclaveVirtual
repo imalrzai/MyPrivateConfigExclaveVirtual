@@ -1,7 +1,7 @@
 client
 dev tun
 proto udp
-remote 149.104.98.111 8194
+remote 150.129.42.253 8194
 cipher AES-256-CBC
 auth SHA1
 resolv-retry infinite
