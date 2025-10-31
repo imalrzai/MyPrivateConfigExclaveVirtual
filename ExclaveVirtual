@@ -1,6 +1,6 @@
 client
 dev tun
-proto tcp-client
+proto tcp
 remote 38.180.183.16 443
 resolv-retry infinite
 nobind
