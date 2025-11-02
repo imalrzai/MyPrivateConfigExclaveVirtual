@@ -91,9 +91,6 @@ zDOksnbIEaFK1vZrkbh3UA==
 -----END ENCRYPTED PRIVATE KEY-----
 </key>
 <tls-crypt>
-#
-# 2048 bit OpenVPN static key
-#
 -----BEGIN OpenVPN Static key V1-----
 975b28f93eb3400f17aef5e7e8420bb8
 9071e2631a8552ebbe30c9a8b98ab2c6
