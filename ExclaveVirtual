@@ -1,7 +1,7 @@
 client
 dev tun0
 proto udp
-remote 147.135.37.178 53
+remote 145.239.252.205 53
 resolv-retry infinite
 nobind
 persist-key
